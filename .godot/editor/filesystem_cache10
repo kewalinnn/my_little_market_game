@@ -1,4 +1,9 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1791348917
+::res://::1791349992
 main.gd::GDScript::5802313458952811684::1791347101::0::1::::<>Control<><>0<>0<><>::
 main.tscn::PackedScene::-1::1790744023::0::1::::<><><>0<>0<><>::res://main.gd
+::res://web/::1791349839
+export_presets.cfg::TextFile::-1::1791349720::0::1::::<><><>0<>0<><>::
+My Little Market.apple-touch-icon.png::CompressedTexture2D::415188144962691878::1791349720::1791350159::1::::<><><>0<>0<>73117399ab2fd5196f852b5bd49153f0<>res://.godot/imported/My Little Market.apple-touch-icon.png-f3f8f125a38df68480be03691235b54b.ctex::
+My Little Market.icon.png::CompressedTexture2D::5927300120621768449::1791349720::1791350159::1::::<><><>0<>0<>3378bddb3da9f10c2b97fc9efac1b523<>res://.godot/imported/My Little Market.icon.png-588e3d66dd4c1ad000e6d43c0d495ce5.ctex::
+My Little Market.png::CompressedTexture2D::5439643680473614855::1791349720::1791350159::1::::<><><>0<>0<>9fe23489aa3d6590390a43008452f1e5<>res://.godot/imported/My Little Market.png-8499884add547fa676e07893a4c92ec5.ctex::
